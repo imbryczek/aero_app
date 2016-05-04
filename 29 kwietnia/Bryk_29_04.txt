@@ -1,8 +1,0 @@
-Co wczoraj zrobi³em/am?
-Za³o¿y³em repozytorium na stronie github.com dla grupy oraz grupê dyskusyjn¹ kontaktow¹ na facebooku.
-
-Co bêdê robiæ dzisiaj?
-Dodam instrukcjê obs³ugi repozytorium gita.
-
-Jakie trudnoœci napotka³em/am?
-Brak
