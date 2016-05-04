@@ -1,0 +1,39 @@
+Programy do przechwytywania okien Aero:
+Na dobreprogramy.pl znalaz³am trzy programy na których istnieje mo¿liwoœæ przechwytywania okien w stylu Aero:
+1. 7capture
+http://www.dobreprogramy.pl/7capture,Program,Windows,40232.html
+
+2. AeroShot
+http://www.dobreprogramy.pl/AeroShot,Program,Windows,39434.html
+
+3. Shotty 
+http://www.dobreprogramy.pl/Shotty,Program,Windows,45830.html
+
+
+www.codeproject.com
+Znalaz³am artyku³y (napisane po angielsku) dotycz¹ce tworzenia screenów:
+1. Varius methods for capturing a screen:
+http://www.codeproject.com/Articles/5051/Various-methods-for-capturing-the-screen
+
+Tu¿ pod tytu³em artyku³u zawarte s¹ trzy  kody Ÿród³owe do tworzenia screenów ( c++ ). Co prawda nie dotyczace bezpoœrednio okien aero, ale moga siê przydaæ.
+Kod mo¿na œci¹gnaæ po rejestracji na stronie.
+
+2. Screen capturing
+http://www.codeproject.com/Articles/12898/Screen-Capturing
+
+Te¿ dotyczy tworzenia screenów w ogóle (nie aero) i te¿ w c++
+
+Pod artuku³ami znajduja siê propozycje innych artyku³ów o tej tematyce.
+
+
+
+Kolejne linki z kodem do tworzenia screenów (wszystko po angielsku)
+1. https://gist.github.com/rdp/9821698 (c)
+	Zawiera kod do tworzenia screenów.
+2. http://stackoverflow.com/questions/997175/how-can-i-take-a-screenshot-and-save-it-as-jpeg-on-windows ( c )
+	U¿ytkownik zg³asza problem, ¿e tworzony przez niego screen ma za du¿y rozmiar.
+3. http://study.marearts.com/2011/11/screen-capture-and-save-c-source-code.html (c++)
+	Zawiera kod do tworzenia screenów.
+4. http://www.codeproject.com/Questions/743817/How-to-Capture-Aero-Window-all-states (Visual Basic.NET)
+	U¿ytkownik zg³asza problemy dotycz¹ce napisanych przez niego programów dla okien aero.
+	Wiem, ¿e nie mamy u¿ywaæ VB.NET i w programach s¹ b³êdy, ale to jedyny znaleziony przeze mnie kod, który dotyczy w³aœnie okien aero. 
