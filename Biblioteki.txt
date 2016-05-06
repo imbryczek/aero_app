@@ -1,0 +1,8 @@
+Przydatne biblioteki w c i c++:
+<windows.h>
+
+Tutaj znalaz³em kurs dotycz¹cy WinAPI, aby robiæ okna:
+http://www.guidecpp.cal.pl/winapi,intro
+
+Oraz tu:
+http://komputery.spryciarze.pl/zobacz/jak-programowac-w-c-winapi-1-winmain-i-message-box
