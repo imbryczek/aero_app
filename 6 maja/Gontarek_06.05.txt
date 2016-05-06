@@ -1,0 +1,10 @@
+Co robi³am wczoraj?
+- Zakoñczenie pierwszego sprintu
+- Ustalenie planu na nastêpny sprint
+
+Co bêdê robiæ dzisiaj?
+- Wybiorê zadanie, którym bêdê siê zajmowaæ w najbli¿szym czasie
+- Napiszê jedn¹ aplikacjê w WinAPI (w celu opanowania podstaw WinAPI)
+
+Problemy:
+Brak
