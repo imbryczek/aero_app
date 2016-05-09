@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Przeszuka³em biblioteki, które mog¹ siê przydaæ w realizacji drugiego sprintu. Znalaz³em poradnik do WinAPI.
+
+Co bêdê robiæ dzisiaj?
+Przygotujê odpowiednie rozwi¹zania z WinAPI do obs³ugi okna.
+
+Jakie trudnoœci napotka³em/am?
+Brak
