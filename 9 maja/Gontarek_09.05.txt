@@ -1,0 +1,7 @@
+Co robi³am w pi¹tek?
+- przypisa³am siê do zadania - wybór gotowego kodu aplikacji
+- znalaz³am kurs WinApi i napisa³am proste okno aplikacji
+
+Co bêdê robiæ dzisiaj?
+- wybiorê odpowiedni kod aplikacji (z wczeœniej wyszukanych w pierwszym sprincie)
+- przeczytam jeden rozdzia³ z kursu WinAPI
