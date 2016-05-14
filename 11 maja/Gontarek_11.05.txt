@@ -1,0 +1,8 @@
+Co robi³am wczoraj?
+- znalaz³am informacje na temat funkcji umo¿liwiajacych przechwytywanie konkretnego okna
+
+Co bêdê robiæ dzisiaj?
+- spróbujê zaimplementowaæ funkcje w gotowym programie
+
+Problemy:
+Brak
