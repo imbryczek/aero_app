@@ -1,0 +1,10 @@
+Co robi³am wczoraj?
+- wybra³am kod, na podstawie którego mamy stworzyæ aplikacjê (w jêzyku c)
+- Kontynu³owa³am zaznajamianie siê z WinAPI
+
+Co bêdê robiæ dzisiaj?
+- znajdê informacje na temat funkcji, które umo¿liwiaj¹ wybór obszaru
+lub okna, którego screen ma zostaæ utworzony
+
+Problemy:
+Brak
