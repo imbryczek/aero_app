@@ -1,0 +1,8 @@
+Co robi³am wczoraj?
+- próbowa³am zaimplementowaæ funkcje umo¿liwiaj¹ce wybór okien w programie
+
+Co bêdê robiæ dzisiaj?
+- zakoñczê sprint, poszukam dalszych informacji na temat przechwytywania okien
+
+Problemy:
+- nie uda³o mi siêzaimplementowaæ funkcji tak, by przechwytywa³y okna
