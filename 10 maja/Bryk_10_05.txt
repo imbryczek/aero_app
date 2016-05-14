@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Przygotowa³em rozwi¹zania z WinAPI do ob³sugi okna
+
+Co bêdê robiæ dzisiaj?
+Poprawiê b³êdy w aktualnym kodzie, wykonam testy.
+
+Jakie trudnoœci napotka³em/am?
+Brak
