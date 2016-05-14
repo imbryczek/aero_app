@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Za³o¿y³em now¹ tablicê trello i doda³em zadania do nowego sprintu
+
+Co bêdê robiæ dzisiaj?
+Zaplanujê przejrzysty interfejs aplikacji i spróbujê go zaimplementowaæ przez najbli¿sze dni
+
+Jakie trudnoœci napotka³em/am?
+Brak
