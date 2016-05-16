@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Pisa³em program, który ma robiæ screena ekranu.
+
+Co bêdê robiæ dzisiaj?
+Ukoñczê ten program, gdy¿ nie uda³o mi siê tego zrobiæ wczoraj.
+
+Jakie trudnoœci napotka³em/am?
+Musia³em podczas pisania bazowaæ na jêzyku C++, z którym nie jestem do koñca zaznajomiony.
