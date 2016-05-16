@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Poprawi³em b³êdy w kodzie, próbowa³em modyfikowaæ kod i ulepszyæ go dodaj¹c nowe funkcje.
+
+Co bêdê robiæ dzisiaj?
+Skonsultujê siê ze wspó³pracownikami przy problemach, które napotka³em przy tworzeniu programu.
+
+Jakie trudnoœci napotka³em/am?
+Nie uda³o mi siê osi¹gn¹æ wczorajszego celu, po modyfikacjach kompilator wyrzuca b³êdy, postaram siê to naprawiæ.
