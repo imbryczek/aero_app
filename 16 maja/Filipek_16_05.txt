@@ -1,0 +1,9 @@
+Co wczoraj zrobi³em/am?
+Wybra³em zadania do wykonania na najbli¿sze dni, zakoñczy³em sprint.
+
+Co bêdê robiæ dzisiaj?
+Rozpocznê modyfikowanie kodu. G³ównie chodzi o to, by program by³ w stanie przechwytywaæ pojedyncze okna,
+a nie ca³y ekran na raz.
+
+Jakie trudnoœci napotka³em/am?
+Brak
