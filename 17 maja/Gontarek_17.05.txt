@@ -1,0 +1,9 @@
+Co robi³am wczoraj?
+Sprawdzi³am dzia³anie dodanego programu. Uda³o siê go skompilowaæ.
+
+Co bêdê robiæ dzisiaj?
+Je¿eli w ga³êzi software pojawi¹ siê nowe materia³y, to sprawdzê ich poprawnoœæ. Spróbujê wyszukaæ informacje na temat 
+funkcji/narzêdzi umo¿liwiaj¹cych przechwytywanie okien
+
+Napotkane problemy:
+Brak
