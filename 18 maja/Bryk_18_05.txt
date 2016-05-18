@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Wykorzysta³em WinAPI do stworzenia okna programu
+
+Co bêdê robiæ dzisiaj?
+Zaimplementujê odpowiednie rozwi¹zania do programu G. Filipka
+
+Jakie trudnoœci napotka³em/am?
+Brak
