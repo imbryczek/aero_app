@@ -1,0 +1,9 @@
+Co wczoraj zrobi³em/am?
+Szuka³em poradników o dodatku PlusforTrello
+
+Co bêdê robiæ dzisiaj?
+W obliczu terminu ukoñczenia sprintu oraz pracy, która pozosta³a, porzucam potencjalne korzyœci wynikaj¹ce z korzystania z tego dodatku, 
+zajmê siê zg³êbianiem jêzyka C++ w razie, gdyby okaza³ siê istotnie bardziej u¿yteczny do naszego projektu, ni¿ jêzyk C.
+
+Jakie trudnoœci napotka³em/am?
+brak
