@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Zakoñczy³em pisanie instruckji dotycz¹cej instalacji i konfiguracji u¿ytecznych dodatków u³atwiaj¹cych pracê grupow¹ dla przegl¹darki Chrome
+
+Co bêdê robiæ dzisiaj?
+Zajmê siê analizowaniem funkcjonalnoœci dodatku PlusforTrello
+
+Jakie trudnoœci napotka³em/am?
+brak
