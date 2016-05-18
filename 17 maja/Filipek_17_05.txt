@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Sprawdzi³em dzia³anie programu, poprawia³êm b³êdy.
+
+Co bêdê robiæ dzisiaj?
+Pomogê pisaæ interface dla programu.
+
+Jakie trudnoœci napotka³em/am?
+Wci¹¿ wystêpowa³y b³êdy w kodzie
