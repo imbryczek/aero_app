@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Analizowa³em aspekty nowego jêzyka programowania, mog¹cego byæ lepszym œrodowiskiem dla projektu oraz rozwi¹za³em drobne problemy z rozszerzeniem plików ze standupami w repozytorium.
+
+Co bêdê robiæ dzisiaj?
+Przeanalizujê gotowe rozwi¹zania projektu, jednak¿e w jêzyku obiektowym C++.
+
+Jakie trudnoœci napotka³em/am?
+brak
