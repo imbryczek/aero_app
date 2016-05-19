@@ -1,0 +1,10 @@
+Co wczoraj robi³am?:
+ - znalaz³am funcje mog¹ce siê przydaæ w przechwytywaniu okien i ich wspó³rzêdnych
+Materia³ zamieœci³am w ga³êzi software
+
+Co dzisiaj bêdê robiæ?
+Jeœli pojawi¹ siê jakieœ b³êdy/ problemy, to spróbujê je rozwi¹zaæ.
+Nadal bêdê szukaæ informacji/programów mog¹cych siêokazaæ przydatnych do rzechwytywaniu okien i ich wspó³rzêdnych
+
+Napotkane problemy:
+Brak
