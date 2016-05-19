@@ -1,0 +1,8 @@
+Co wczoraj robia³m?
+Znalaz³am program uzyskuj¹cy numery PID procesów przebiegaj¹cych aktualnie w komputerze
+
+Co bêdê robiæ dzisiaj?
+Zakoñczê trzeci sprint. Razem z reszt¹ grupy ustalê cel nastêpnego sprintu
+
+Napotkane problemy:
+Brak
