@@ -1,0 +1,9 @@
+Funkcje mog¹ce siê okazaæ przydatne w przechwytywaniu okien aero:
+- FindWindowEx() - zwraca wartoœæ bedaca uchwytem do szukanego okna albo NULL
+- GetWindowRect() - funkcja s³u¿¹ca do pobierania wspó³rzêdnych lewego-górnego i prawego-dolnego naro¿nika okna
+- GetWindow() - zwraca uchwyt do danego okna
+- GetWindowRect() - pobiera prostok¹t okreœlaj¹cy wymiary i po³o¿enie podanego okna. W przypadku niepowodzenia zraca wartoœæ
+zero
+ -FindWindow() - zwraca uchwyt do szukanego okna lub NULL
+- GetCurrentProcess() - zwraca uchwyt do przebiegaj¹cego aktualnie procesu
+- EnumProcesses() - zwraca identyfikator do procesów w systemie
