@@ -1,0 +1,10 @@
+Program tworz¹cy screena:
+https://gist.github.com/rdp/9821698#file-windows_screen_capture_bmp-cpp
+Kompilujê przy urzyciu kompilatora g++. Wierszu poleceñ nale¿y dodaæ "-lgdi32"
+Przyk³adowy wiersz poleceñ: C:\MinGW\bin\g++ C:\Users\Karolina\aeroc\main.cpp -lgdi32 aeroc.exe
+
+
+Program pobierajacy kody PID procesów systemu operacyjnego:
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms683179(v=vs.85).aspx
+Kompilujê przy u¿yciu kompilatora g++. W wierszu poleceñ nale¿y dodaæ "-lpsapi"
+Przyk³adowy wiersz poleceñ: C:\MinGW\bin\g++ C:\Users\Karolina\proces\main.cpp -lgdi32 proces.exe
