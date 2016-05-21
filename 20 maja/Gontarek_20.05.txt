@@ -1,0 +1,10 @@
+Co wczoraj robi³am?
+Znalaz³am program wyszukuj¹cy numery PID procesów przebiegaj¹cych w komputerze.
+Program ten mo¿e siêokazaæ u¿yteczny.
+Zakoñczy³am trzeci sprint. Wspólnie z zespo³em ustali³am cel nastêpnego sprintu.
+
+Co bêdê robiæ dzisiaj?
+Rospocznê nowy sprint. Przypiszê siê do nastêpnego zadania i rozpoczne jego realizacje/wykonam je w ca³oœci
+
+Problemy:
+Brak
