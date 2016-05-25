@@ -1,0 +1,9 @@
+Co wczoraj robi³am?
+Przypisa³am siê do zadania polegaj¹cego na zapewnieniu wyboru rozszerzenia pliku
+Zmodyfikowa³am program tak, ¿e jest mo¿liwy wybór pliku
+
+Co dzisiaj bede robiæ?
+Spróbuje stworzyæ interfejs aplikacji (w zakresie wyboru formatu)
+
+Problemy:
+Brak
