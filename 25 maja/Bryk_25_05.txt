@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Za³o¿y³em projekt w celu po³¹czenia plików
+
+Co bêdê robiæ dzisiaj?
+Spróbujê rozszerzyæ program o robienie zrzutu wybranego okna
+
+Jakie trudnoœci napotka³em/am?
+Brak
