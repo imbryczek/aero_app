@@ -1,0 +1,45 @@
+     TCanvas *pCanvas = new TCanvas();
+    Graphics::TBitmap *Bmp = new Graphics::TBitmap;
+
+    HWND okno = FindWindow("Notepad", NULL);
+
+    SetActiveWindow(okno); /* przywo³anie okna na pierwszy plan lub przywrócenie okna je¿eli zminimalizowane */
+
+    TRect r;
+    GetWindowRect(okno, &r);
+
+    /* SetWindowPo zmienia pozycjê okna programu na pulpicie, na wypadek, gdyby okno wychodzi³o poza ekran, je¿eli zbêdna mo¿na funkcjê usun¹æ */
+    SetWindowPos(okno, HWND_TOP, 0, 0, NULL, NULL, SWP_NOSIZE);
+    Sleep(100);
+
+    SetActiveWindow(okno); /* ponowne przywo³anie okna na pierwszy plan - potrzebna je¿eli okno by³o wczeœniej zminimalizowane i przywrócone */
+
+      pCanvas->Handle = GetWindowDC(okno);
+    TRect oR;
+    GetWindowRect(okno, &oR);
+    Bmp->Width = oR.Width();
+    Bmp->Height = oR.Height();
+    Bmp->Canvas->CopyRect(Rect(0, 0, Bmp->Width, Bmp->Height), pCanvas, Rect(0, 0, Bmp->Width, Bmp->Height));
+
+    Image1->Width = oR.Width();
+    Image1->Height = oR.Height();
+    Image1->Picture->Assign(Bmp);
+
+    Image1->Canvas->Brush->Style = bsClear;
+    Image1->Canvas->Pen->Color = clBlue;
+    Image1->Canvas->Rectangle(200, 200, 250, 250);
+
+    Graphics::TBitmap *fragBmp = new Graphics::TBitmap;
+    fragBmp->Width = 50;
+    fragBmp->Height = 50;
+    fragBmp->Canvas->CopyRect(Rect(0, 0, 50, 50), Bmp->Canvas, Rect(200, 200, 250, 250));
+
+    Image2->Width = 50;
+    Image2->Height = 50;
+    Image2->Picture->Assign(fragBmp);
+
+    ReleaseDC(0, pCanvas->Handle);
+
+    delete pCanvas;
+    delete Bmp;
+    delete fragBmp;
