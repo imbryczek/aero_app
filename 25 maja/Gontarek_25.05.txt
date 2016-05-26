@@ -1,0 +1,8 @@
+Co robi³am wczoraj?
+Zaczê³am pisaæ interfejs dla wyboru formatu screena
+
+Co dzisiaj bêdê robiæ?
+Bêdê kontynu³owaæ pisanie interfejsu 
+
+Napotkane problemy:
+Brak
