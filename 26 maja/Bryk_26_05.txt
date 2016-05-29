@@ -1,0 +1,8 @@
+Co wczoraj zrobi³em/am?
+Doda³em fragment kodu umo¿liwiaj¹cy zrobienie zrzutu okna
+
+Co bêdê robiæ dzisiaj?
+Dodam tablicê trello dla nowego sprintu, zakoñczê stary
+
+Jakie trudnoœci napotka³em/am?
+Brak
