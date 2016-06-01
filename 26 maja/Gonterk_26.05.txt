@@ -1,0 +1,8 @@
+Co wczoraj robi³am?
+Pisa³am interfejs aplikacji
+
+Co dzisiaj bede robiæ?
+Spróbuje dokonczyc intefejs aplikacji.
+
+Problemy:
+Nie uda³o mi sie stworzyæ interfejsu przed zakoñczeniem sprintu.
